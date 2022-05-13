@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azaki-developer (Zaki)
+- 👋 Hi, I’m Zaki
 - 👀 I’m interested in Flutter development and the UI design of mobile apps.
 - 🌱 I’m currently learning to slice mobile UI design into codes, consum API, and Provider state management in Flutter.
 - 💞️ I’m looking to collaborate on cross-platform mobile apps development.
